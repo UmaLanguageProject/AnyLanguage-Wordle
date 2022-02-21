@@ -1,7 +1,7 @@
 import { CONFIG } from './config'
 
 export const WORDS = [
-  'ã^saẖ',
+  'ã^sah',
   'ableh',
   "sapu'",
   'dánih',
