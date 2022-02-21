@@ -1,7 +1,7 @@
 import { CONFIG } from './config'
 
 export const VALIDGUESSES = [
-  'ã^saẖ',
+  'ã^sah',
   'ableh',
   "sapu'",
   'dánih',
@@ -58,7 +58,6 @@ export const VALIDGUESSES = [
   "unna'",
   "desu'",
   'sémah',
-  "etce'",
   'wúhah',
   "amme'",
   'bunah',
@@ -145,7 +144,6 @@ export const VALIDGUESSES = [
   'tcéleh',
   'selah',
   'pesah',
-  'átceh',
   'áfuah',
   'sélek',
   'sẽfah',
